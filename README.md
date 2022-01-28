@@ -1,4 +1,4 @@
-### Hi there, I'm Oka Wibawa 👋 
+## Hi there, I'm Oka Wibawa 👋 
 
 ## I'm a Software Developer!
 
