@@ -1,6 +1,6 @@
 hi there, my name is oka and in case you have not yet noticed, i write code.
 
-check out my [site](https://oka.dev/portfolio), it is under development, though.
+check out my [site](https://www.okawibawa.dev), it is under development, though.
 
 <!--
 **okawibawa/okawibawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
