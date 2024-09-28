@@ -5,10 +5,10 @@ check out my [site](https://www.okawibawa.dev), it is under development, though.
 <!--START_SECTION:waka-->
 
 ```javascript, typescript, go, python, dockerfile, yaml, markdown, html, javascriptreact, typescriptreact, json, rust
-Total Time: 5 hrs 22 mins
+Total Time: 2 hrs 12 mins
 
-TypeScript   5 hrs 22 mins   ########################-   95.07 %
-Other        16 mins         #------------------------   04.93 %
+TypeScript   2 hrs 12 mins   #########################   98.70 %
+Other        1 min           -------------------------   01.30 %
 ```
 
 <!--END_SECTION:waka-->
