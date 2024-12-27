@@ -7,9 +7,9 @@ check out my [site](https://www.okawibawa.dev), it is under development, though.
 ```javascript, typescript, go, python, dockerfile, yaml, markdown, html, javascriptreact, typescriptreact, json, rust
 Total Time: 21 mins
 
-Python   20 mins         ########################-   94.85 %
-Text     1 min           #------------------------   04.76 %
-Other    0 secs          -------------------------   00.40 %
+Python   20 mins         ########################-   95.01 %
+Text     1 min           #------------------------   04.75 %
+Other    0 secs          -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
