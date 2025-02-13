@@ -1,7 +1,5 @@
 hi there, my name is oka and in case you have not yet noticed, i write code.
 
-check out my [site](https://www.okawibawa.dev), it is under development, though.
-
 <!--START_SECTION:waka-->
 
 ```javascript, typescript, go, python, dockerfile, yaml, markdown, html, javascriptreact, typescriptreact, json, rust
