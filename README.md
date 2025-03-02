@@ -3,12 +3,11 @@ hi there, my name is oka and in case you have not yet noticed, i write code.
 <!--START_SECTION:waka-->
 
 ```javascript, typescript, go, python, dockerfile, yaml, markdown, html, javascriptreact, typescriptreact, json, rust
-Total Time: 11 mins
+Total Time: 8 mins
 
-Go         8 mins          ################---------   65.05 %
-Other      1 min           ####---------------------   14.30 %
-conf       1 min           ###----------------------   11.44 %
-Markdown   1 min           ##-----------------------   09.20 %
+Go      8 mins          ####################-----   81.59 %
+Other   1 min           ####---------------------   17.00 %
+conf    0 secs          -------------------------   01.40 %
 ```
 
 <!--END_SECTION:waka-->
