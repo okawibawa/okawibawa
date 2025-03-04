@@ -5,7 +5,8 @@ hi there, my name is oka and in case you have not yet noticed, i write code.
 ```javascript, typescript, go, python, dockerfile, yaml, markdown, html, javascriptreact, typescriptreact, json, rust
 Total Time: 0 secs
 
-No activity tracked
+CSS          0 secs          ########################-   95.93 %
+TypeScript   0 secs          #------------------------   04.07 %
 ```
 
 <!--END_SECTION:waka-->
