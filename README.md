@@ -3,13 +3,13 @@ hi there, my name is oka and in case you have not yet noticed, i write code.
 <!--START_SECTION:waka-->
 
 ```javascript, typescript, go, python, dockerfile, yaml, markdown, html, javascriptreact, typescriptreact, json, rust
-Total Time: 35 hrs 54 mins
+Total Time: 34 hrs 4 mins
 
-TypeScript   32 hrs 5 mins   ######################---   89.33 %
-JSON         1 hr 4 mins     #------------------------   02.99 %
-Bash         1 hr 3 mins     #------------------------   02.96 %
-Lua          27 mins         -------------------------   01.29 %
-jsonl        21 mins         -------------------------   01.00 %
+TypeScript   29 hrs 43 mins  ######################---   87.18 %
+JSON         1 hr 7 mins     #------------------------   03.29 %
+Bash         1 hr 3 mins     #------------------------   03.12 %
+Lua          40 mins         -------------------------   01.97 %
+jsonl        29 mins         -------------------------   01.43 %
 ```
 
 <!--END_SECTION:waka-->
