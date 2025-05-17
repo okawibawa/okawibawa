@@ -3,9 +3,9 @@ hi there, my name is oka and in case you have not yet noticed, i write code.
 <!--START_SECTION:waka-->
 
 ```javascript, typescript, go, python, dockerfile, yaml, markdown, html, javascriptreact, typescriptreact, json, rust
-Total Time: 0 secs
+Total Time: 42 mins
 
-No activity tracked
+TypeScript   42 mins         #########################   100.00 %
 ```
 
 <!--END_SECTION:waka-->
